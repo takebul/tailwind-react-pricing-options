@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 20,
+    "duration": "month",
+    "description": "Ideal for beginners getting started with fitness.",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "Free WiFi",
+      "Standard gym hours",
+      "Basic fitness assessment",
+      "Access to cardio zone",
+      "Mobile app access"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Pro",
+    "price": 45,
+    "duration": "month",
+    "description": "Perfect for regular training with extra support.",
+    "features": [
+      "All Basic features",
+      "Group classes (Yoga, HIIT, Zumba)",
+      "2 personal training sessions/month",
+      "Basic diet guidance",
+      "Progress tracking",
+      "Access to strength training zone",
+      "Priority booking for classes",
+      "Guest pass (1 per month)"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Elite",
+    "popular": true,
+    "price": 80,
+    "duration": "month",
+    "description": "Best for advanced users who want full premium access.",
+    "features": [
+      "All Pro features",
+      "Unlimited personal training",
+      "Custom workout & diet plan",
+      "Sauna & steam access",
+      "24/7 gym access",
+      "Priority support",
+      "Recovery sessions (massage/stretching)",
+      "Exclusive workshops & events",
+      "Unlimited guest passes"
+    ]
+  }
+]
